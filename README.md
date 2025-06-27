@@ -20,7 +20,8 @@
 ## 📌 Pinned Projects (visit my Repos!)
 
 - 🐍 **Python-Course** – My journey through Python basics and mini-projects  
-- 🌐 **HTML-CSS-Tutorial** – Learning the foundation of web design  
+- 🌐 **HTML-CSS-Tutorial** – Learning the foundation of web design
+- 🧮 **JavaScript-Course** - Getting along with intermediate of web design
 - 🔢 _Coming Soon:_ Sensor logger with Arduino & Python, GPA calculator with GUI  
 
 ---
@@ -37,7 +38,7 @@ Currently, I'm preparing a strong portfolio to apply for **fully funded scholars
 ## 📫 Let's Connect
 
 - **GitHub**: [KankonNil007](https://github.com/KankonNil007)
-- **Email**: kankonmondal0007@gmail.com
+- **Email**: kankonmondal52@gmail.com
 - **LinkedIn**: *Coming soon*
 
 ---
