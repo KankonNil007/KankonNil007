@@ -38,7 +38,7 @@ Currently, I'm preparing a strong portfolio to apply for **fully funded scholars
 ## 📫 Let's Connect
 
 - **GitHub**: [KankonNil007](https://github.com/KankonNil007)
-- **Email**: kankonmondal52@gmail.com
-- **LinkedIn**: *Coming soon*
+- **Email**: kankonmondal62@gmail.com
+- **LinkedIn**: [Kankon Mondal](https://linkedin.com/in/KankonMondal)
 
 ---
