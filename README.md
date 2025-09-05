@@ -11,7 +11,7 @@
 
 ## 🔧 Skills & Tools
 
-- **Languages:** Python, C (beginner), MATLAB (learning soon)
+- **Languages:** JavaScript, Python, C (not fluent), MATLAB (learning soon)
 - **Tech:** Arduino, Git & GitHub, HTML/CSS, JavaScript (basic)
 - **Tools:** VS Code, Jupyter, TinkerCAD, Proteus
 
@@ -38,7 +38,7 @@ Currently, I'm preparing a strong portfolio to apply for **fully funded scholars
 ## 📫 Let's Connect
 
 - **GitHub**: [KankonNil007](https://github.com/KankonNil007)
-- **Email**: kankonmondal62@gmail.com
-- **LinkedIn**: [Kankon Mondal](https://linkedin.com/in/KankonMondal)
+- **Email**: kankonmondal77@gmail.com
+- **LinkedIn**: [Kankon Mondal](https://linkedin.com/in/KankonMondal77)
 
 ---
